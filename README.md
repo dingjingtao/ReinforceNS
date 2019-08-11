@@ -1,5 +1,5 @@
 # ReinforceNS
-The implementation of RNS
+The implementation of Reinforced Negative Sampler for implicit recommender system.
 
 RNS is a better negative sampler for recommendation with exposure data. This is our official implementation for the paper: 
 
