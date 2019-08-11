@@ -5,6 +5,8 @@ RNS is a better negative sampler for recommendation with exposure data. This is 
 
 Jingtao Ding, Yuhan Quan, Xiangnan He, Yong Li, Depeng Jin, **Reinforced Negative Sampling for Recommendation with Exposure Data**, In Proceedings of IJCAI'19.
 
+If you use the codes, please cite our paper. Thanks!
+
 Data is the Zhihu dataset in the paper.
 
 Please run code with shell in 'sh/'
